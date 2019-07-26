@@ -49,9 +49,9 @@ const IndexPage = ({
   <Layout>
     <Wrapper>
       <Hero>
-        <h1>Hi, I'm Nathan Benaich</h1>
+        <h1>Hi I&apos;m Nathan Benaich</h1>
         <p>
-          I&apos;m Nathan Benaich, .
+          I invest in technology companies.
         </p>
         <Link to="/contact">
           <Button big>
